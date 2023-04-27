@@ -15,8 +15,10 @@ function ChatGPT() {
     <div>
       <div className="gradient__bg">
         <Navbar />
+        <Header />
       </div>
-      <Brand />
+
+      <div></div>
       <CTA />
     </div>
   );
