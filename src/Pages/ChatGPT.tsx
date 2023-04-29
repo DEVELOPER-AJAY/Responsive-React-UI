@@ -17,9 +17,10 @@ function ChatGPT() {
         <Navbar />
         <Header />
       </div>
-
+      <Brand />
+      <WhatGPT3 />
+      <Features />
       <div></div>
-      <CTA />
     </div>
   );
 }
