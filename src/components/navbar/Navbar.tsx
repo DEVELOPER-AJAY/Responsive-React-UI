@@ -42,7 +42,7 @@ function Navbar() {
             <a href="#features">Open AI</a>
           </p>
           <p>
-            <a href="#home">Case Studies</a>
+            <a href="#possibility">Case Studies</a>
           </p>
           <p>
             <a href="#home">Library</a>

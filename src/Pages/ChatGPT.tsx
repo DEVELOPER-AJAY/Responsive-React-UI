@@ -20,6 +20,7 @@ function ChatGPT() {
       <Brand />
       <WhatGPT3 />
       <Features />
+      <Possibility />
       <div></div>
     </div>
   );
