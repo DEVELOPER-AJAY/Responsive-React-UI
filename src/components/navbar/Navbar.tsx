@@ -36,10 +36,10 @@ function Navbar() {
             <a href="#home">Home</a>
           </p>
           <p>
-            <a href="#home">What is GPT3</a>
+            <a href="#wgpt3">What is GPT3</a>
           </p>
           <p>
-            <a href="#home">Open AI</a>
+            <a href="#features">Open AI</a>
           </p>
           <p>
             <a href="#home">Case Studies</a>
