@@ -1,7 +1,6 @@
 import React from "react";
 import possibilityimage from "../../assets/possibility.png";
 import "./possibility.css";
-import { CTA } from "../../components";
 
 function possibility() {
   return (
