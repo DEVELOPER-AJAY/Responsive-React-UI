@@ -22,6 +22,8 @@ function ChatGPT() {
       <Features />
       <Possibility />
       <CTA />
+      <Blog />
+      <Footer />
       <div></div>
     </div>
   );
