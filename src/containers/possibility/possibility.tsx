@@ -1,12 +1,11 @@
 import React from "react";
 import possibilityimage from "../../assets/possibility.png";
 import "./possibility.css";
+import { CTA } from "../../components";
 
 function possibility() {
   return (
     <div className="gpt3__possibility section__padding" id="possibility">
-      <div>Possiblity</div>
-      {/* <Possibility /> */}
       <div className="gpt3__possibility-image">
         <img src={possibilityimage} />
       </div>

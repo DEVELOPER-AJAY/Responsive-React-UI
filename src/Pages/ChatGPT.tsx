@@ -21,6 +21,7 @@ function ChatGPT() {
       <WhatGPT3 />
       <Features />
       <Possibility />
+      <CTA />
       <div></div>
     </div>
   );
